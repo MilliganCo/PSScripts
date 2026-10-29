@@ -1,13 +1,5 @@
-# PSScripts — empty placeholder
+# PSScripts — scaffold
 
-This repository is currently empty.
+Reserved Photoshop automation collection scaffold; no scripts implemented here.
 
-## Audit decision
-
-- Do not publish as a portfolio project in its current state.
-- Delete it, or fill it with a real Photoshop/JSX automation collection.
-- If this repo is meant to replace `photoshop-jsx-generator` or `PSmasks`, consolidate the useful scripts into one canonical repository with examples and a compatibility matrix.
-
-## License recommendation
-
-MIT only after real original code is added and audited.
+Status verified on 2026-10-29. This repository is public for transparency of the original project archive. It must not be presented as completed or functional software.
